@@ -22,7 +22,7 @@ The Virtual Display Color Processor (VDCP) is a hardware tool for monitoring the
   * DVI transmitter/receiver board (HSMC-DVI), Terasic. Part No: P0017.
 http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=359 
   * Altera Quartus II Web Edition Software (Version 13, free download)
-http://www.altera.com/products/software/quartus-ii/web-edition/qts-we-index.html
+[http://www.altera.com/products/software/quartus-ii/web-edition/qts-we-index.html Quartus II ]
   *  VPCP code developed by FDA/CDRH/OSEL/DIAM
 
 == Installing Quartus II Web Edition ==
