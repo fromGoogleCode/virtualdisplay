@@ -25,7 +25,7 @@ The Virtual Display Color Processor (VDCP) is a hardware tool for monitoring the
   *  VPCP code developed by FDA/CDRH/OSEL/DIAM
 
 == Installing Quartus II Web Edition ==
-  # Download Quartus II Web Edition Software from [http://dl.altera.com/?edition=web here]
+  # Download [http://dl.altera.com/?edition=web Quartus II Web Edition Software]
   # Install Quartus II Web Edition Software
 
 == Downloading VDCP Software ==
