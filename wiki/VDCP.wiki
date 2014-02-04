@@ -71,13 +71,10 @@ generated in the same folder
 
 
 = Uploading VDCP Software onto QB3 =
-(1) Run Quartus II Web Edition and find “Programmer” in the “Tools” tab
-
-(2) Open the “Programmer” and click on the “Add File…” button
-
-(3) Choose the “DVI_Demo.sof” file
-
-(4) Press the “Start” buttom to start program.
+  # Run Quartus II Web Edition and find “Programmer” in the “Tools” tab
+  # Open the “Programmer” and click on the “Add File…” button
+  # Choose the “DVI_Demo.sof” file
+  # Press the “Start” buttom to start program.
 
 
 = Using VDCP =
