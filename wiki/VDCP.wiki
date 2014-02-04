@@ -45,11 +45,11 @@ http://www.altera.com/products/software/quartus-ii/web-edition/qts-we-index.html
 
 
 = Downloading VDCP Software =
-(1) Download VDCP software from code.google.com/p/vdcp including the following files:
+  # Download VDCP software from code.google.com/p/vdcp including the following files:
 
-	VDCP.v
+	`VDCP.v`
 
-	DVI_Demo.v
+	`DVI_Demo.v`
 
 
 = Compiling VDCP Software =
