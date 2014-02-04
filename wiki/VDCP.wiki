@@ -103,7 +103,7 @@ last 4 consecutive frames.
 = Citation =
 70.2: Virtual Display: A Platform for Evaluating Display Color Calibration Kits
 WC Cheng, A Badano
-SID Symposium Digest of Technical Papers 42 (1), 1030-1033.
+_SID Symposium Digest of Technical Papers_ *42* (1), 1030-1033.
 
 = Authors =
   Wei-Chung Cheng, Chih-Lei Wu, and Aldo Badano
