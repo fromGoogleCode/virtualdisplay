@@ -84,19 +84,10 @@ generated in the same folder
   # The FPGA will restart after the programming finishes
   # The first image shown on the screen is the following color chart
   # Briefly press the “BUTTON3” button on the FPGA board
-
-(4) The display will show the image content from the DVI input
-
-(5) The target pixel in the center is marked by a red box
-
-(6) The red, green, and blue subpixel values are shown on the top left corner. 
-There are 4 columns. Each column, from top to bottom, consists of the red, 
-green, and blue subpixel values of the target pixel at time t when the frame is 
-refreshed. The 4 columns, from left to right, represent time t, t+1, t+2, and t+3, 
-respectively. In other words, the 4 columns represent the subpixel values in the 
-last 4 consecutive frames.
-
-(7) The VDCP code needs to be uploaded again once the FPGA power is turned off
+  # The display will show the image content from the DVI input
+  # The target pixel in the center is marked by a red box
+  # The red, green, and blue subpixel values are shown on the top left corner. There are 4 columns. Each column, from top to bottom, consists of the red, green, and blue subpixel values of the target pixel at time t when the frame is refreshed. The 4 columns, from left to right, represent time t, t+1, t+2, and t+3, respectively. In other words, the 4 columns represent the subpixel values in the last 4 consecutive frames.
+  # The VDCP code needs to be uploaded again once the FPGA power is turned off
 
 = Citation =
 70.2: Virtual Display: A Platform for Evaluating Display Color Calibration Kits
