@@ -107,13 +107,8 @@ SID Symposium Digest of Technical Papers 42 (1), 1030-1033.
 
 = Authors =
 Wei-Chung Cheng, Chih-Lei Wu, and Aldo Badano
-
 Division of Imaging and Applied Mathematics
-
 Office of Science and Engineering Labs
-
 Center for Devices and Radiological Health
-
 Food and Drug Administration
-
 E-mail: Wei-Chung.Cheng@fda.hhs.gov
