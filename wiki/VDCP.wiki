@@ -81,11 +81,11 @@ generated in the same folder
 
 
 = Using VDCP =
-(1) The FPGA will restart after the programming finishes
+  # The FPGA will restart after the programming finishes
 
-(2) The first image shown on the screen is the following color chart
+  # The first image shown on the screen is the following color chart
 
-(3) Briefly press the “BUTTON3” button on the FPGA board
+  # Briefly press the “BUTTON3” button on the FPGA board
 
 (4) The display will show the image content from the DVI input
 
