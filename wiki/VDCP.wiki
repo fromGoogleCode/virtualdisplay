@@ -17,14 +17,12 @@ The Virtual Display Color Processor (VDCP) is a hardware tool for monitoring the
   # A fully-pinned DVI cable
 
 = System Requirements =
-  # Cyclone III FPGA Starter Kit (QB3), Altera. Ordering code: DK-START-3C25N.
-http://www.altera.com/products/devkits/altera/kit-cyc3-starter.html
+  # Cyclone III FPGA Starter Kit (QB3), Altera. Ordering code: DK-START-3C25N. http://www.altera.com/products/devkits/altera/kit-cyc3-starter.html
   # DVI transmitter/receiver board (HSMC-DVI), Terasic. Part No: P0017.
 http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=359 
   # Altera Quartus II Web Edition Software (Version 13, free download)
 http://www.altera.com/products/software/quartus-ii/web-edition/qts-we-index.html
   #  VPCP code developed by FDA/CDRH/OSEL/DIAM
-
 
 = Installing Quartus II Web Edition =
   # Download Quartus II Web Edition Software from http://dl.altera.com/?edition=web
