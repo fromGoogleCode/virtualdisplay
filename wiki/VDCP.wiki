@@ -1,0 +1,20 @@
+#summary Virtual Display Color Processor (VDCP)
+
+= Introduction =
+
+The Virtual Display Color Processor (VDCP) is a hardware tool for monitoring the 
+pixel data sent from the computer to the display via the Digital Video Interface 
+(DVI) cable. The VDCP is a circuit board to be connected between the DVI cable 
+and the DVI port. The VDCP circuit retrieves the red, green, and blue subpixel 
+values of the target pixel and then show the subpixel values on the display. 
+The hardware portion of VDCP consists of a field programmable gate array (FPGA) 
+board (Cyclone III QB3, Altera) and a DVI daughter board (DVI-HSMC, Terasic). 
+The software portion of VDCP, as described in this document, was designed with 
+the Verilog hardware description language.
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
