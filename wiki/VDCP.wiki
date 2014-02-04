@@ -53,7 +53,7 @@ http://www.altera.com/products/software/quartus-ii/web-edition/qts-we-index.html
   # Briefly press the “BUTTON3” button on the FPGA board
   # The display will show the image content from the DVI input
   # The target pixel in the center is marked by a red box
-  # The red, green, and blue subpixel values are shown on the top left corner. There are 4 columns. Each column, from top to bottom, consists of the red, green, and blue subpixel values of the target pixel at time t when the frame is refreshed. The 4 columns, from left to right, represent time t, t+1, t+2, and t+3, respectively. In other words, the 4 columns represent the subpixel values in the last 4 consecutive frames.
+  # The red, green, and blue subpixel values are shown on the top left corner. There are 4 columns. Each column, from top to bottom, consists of the red, green, and blue subpixel values of the target pixel at time _t_ when the frame is refreshed. The 4 columns, from left to right, represent time _t_, _t_+1, _t_+2, and _t_+3, respectively. In other words, the 4 columns represent the subpixel values in the last 4 consecutive frames.
   # The VDCP code needs to be uploaded again once the FPGA power is turned off
 
 = Citation =
