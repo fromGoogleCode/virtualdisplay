@@ -12,9 +12,7 @@ board (Cyclone III QB3, Altera) and a DVI daughter board (DVI-HSMC, Terasic).
 The software portion of VDCP, as described in this document, was designed with 
 the Verilog hardware description language.
 
-= Details =
-
-Disclaimer
+= Disclaimer =
 
 This software and documentation (the "Software") were developed at the 
 Food and Drug Administration (FDA) by employees of the Federal Government 
