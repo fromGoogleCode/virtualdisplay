@@ -53,29 +53,23 @@ http://www.altera.com/products/software/quartus-ii/web-edition/qts-we-index.html
 
 
 = Compiling VDCP Software =
-(1) Create a new folder and copy the files from the “DVI_Demo” project on the 
+  # Create a new folder and copy the files from the “DVI_Demo” project on the 
 CDROM that comes with the HSMC-DVI board
-
-(2)	Copy the two files “VDCP.v” and “DVI_Demo.v” into the new folder such that:
+  # Copy the two files “VDCP.v” and “DVI_Demo.v” into the new folder such that:
 
 		The “VDCP.v” is added, and
 
 		The old “DVI_Demo.v” is replaced
 
-(3)	Open the “DVI_Demo” project
-
-(4)	Compile the project
-
-(5)	If the compilation is successful, a binary file “DVI_Demo.sof” will be 
-generated in the same folder
-
+  # Open the “DVI_Demo” project
+  # Compile the project
+  # If the compilation is successful, a binary file “DVI_Demo.sof” will be generated in the same folder
 
 = Uploading VDCP Software onto QB3 =
   # Run Quartus II Web Edition and find “Programmer” in the “Tools” tab
   # Open the “Programmer” and click on the “Add File…” button
   # Choose the “DVI_Demo.sof” file
   # Press the “Start” buttom to start program.
-
 
 = Using VDCP =
   # The FPGA will restart after the programming finishes
