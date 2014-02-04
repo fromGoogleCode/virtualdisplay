@@ -21,8 +21,7 @@ The Virtual Display Color Processor (VDCP) is a hardware tool for monitoring the
   * Cyclone III FPGA Starter Kit (QB3), Altera. Ordering code: [http://www.altera.com/products/devkits/altera/kit-cyc3-starter.html DK-START-3C25N]
   * DVI transmitter/receiver board ([http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=359 HSMC-DVI]), Terasic. Part No: P0017.
   * Altera Quartus II Web Edition Software (Version 13, free 
-[http://www.altera.com/products/software/quartus-ii/web-edition/qts-we-index.html download
-])
+[http://www.altera.com/products/software/quartus-ii/web-edition/qts-we-index.html download])
   *  VPCP code developed by FDA/CDRH/OSEL/DIAM
 
 == Installing Quartus II Web Edition ==
@@ -31,8 +30,8 @@ The Virtual Display Color Processor (VDCP) is a hardware tool for monitoring the
 
 == Downloading VDCP Software ==
   # Download VDCP software from code.google.com/p/vdcp including the following files:
-	`VDCP.v`
-	`DVI_Demo.v`
+  * `VDCP.v`
+  * `DVI_Demo.v`
 
 == Compiling VDCP Software ==
   # Create a new folder and copy the files from the `DVI_Demo` project on the CDROM that comes with the HSMC-DVI board
