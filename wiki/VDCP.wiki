@@ -53,14 +53,10 @@ http://www.altera.com/products/software/quartus-ii/web-edition/qts-we-index.html
 
 
 = Compiling VDCP Software =
-  # Create a new folder and copy the files from the “DVI_Demo” project on the 
-CDROM that comes with the HSMC-DVI board
+  # Create a new folder and copy the files from the “DVI_Demo” project on the CDROM that comes with the HSMC-DVI board
   # Copy the two files “VDCP.v” and “DVI_Demo.v” into the new folder such that:
-
 		The “VDCP.v” is added, and
-
 		The old “DVI_Demo.v” is replaced
-
   # Open the “DVI_Demo” project
   # Compile the project
   # If the compilation is successful, a binary file “DVI_Demo.sof” will be generated in the same folder
